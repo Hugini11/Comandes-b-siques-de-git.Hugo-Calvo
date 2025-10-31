@@ -1,1 +1,2 @@
-console.log("Mini projecte Git inicial");
+console.log("canvi a app.js");
+
